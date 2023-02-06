@@ -1,0 +1,11 @@
+.expenses {
+    padding: 1rem;
+    background-color: rgba(12, 11, 11, 0.902);
+    margin: 2rem auto;
+    width: 60rem;
+    max-width: 100%;
+  /*  border-radius: 2rem;*/
+    color: rgba(125, 170, 214, 0.936);
+    font-size: 30px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    }
